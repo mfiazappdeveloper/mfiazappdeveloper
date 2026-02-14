@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Fiaz
 
-<!--
-**mfiazappdeveloper/mfiazappdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web & Mobile App Developer  
+🚀 Building modern, scalable & high-performance digital solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+I specialize in developing custom websites, web applications, and mobile apps tailored to business needs.  
+I focus on clean code, responsive design, and optimized performance.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Mobile Development
+- Flutter
+
+### Database
+- MongoDB
+- MySQL
+- Firebase
+
+---
+
+## 🚀 What I Build
+✔ Business Websites  
+✔ E-Commerce Platforms  
+✔ Admin Dashboards  
+✔ Mobile Applications  
+✔ API Integrations  
+
+---
+
+## 📫 Connect With Me
+📧 Email: taunsavi8@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mfiaztaunsavi
